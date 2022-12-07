@@ -1,4 +1,4 @@
-# The `<model-viewer>` project jason 
+# The `<model-viewer>` project jason nre repo
 
 This is the main Github repository for the `<model-viewer>` web component and
 all of its related projects.
